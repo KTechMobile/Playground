@@ -1,6 +1,6 @@
 {
-    "version":2,
-    "url": "https://github.com/KTechMobile/Playground/raw/main/1.zip",
-    "md5":"424e041ad49c82b372978d31c03b1362",
-    "deleteOldFiles": true
+    "version":1,
+    "url": "https://github.com/KTechMobile/Playground/raw/main/0.zip",
+    "md5":"5419b038d9859a79ca7db9a541d2c944",
+    "deleteOldFiles": false
 }
